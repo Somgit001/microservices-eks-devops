@@ -1,0 +1,15 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "User management microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["microservice", "kubernetes", "devops"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
